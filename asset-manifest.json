@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/compound-governance/static/css/main.58ee7d71.chunk.css",
+    "main.js": "/compound-governance/static/js/main.22d26137.chunk.js",
+    "main.js.map": "/compound-governance/static/js/main.22d26137.chunk.js.map",
+    "runtime-main.js": "/compound-governance/static/js/runtime-main.71ddf022.js",
+    "runtime-main.js.map": "/compound-governance/static/js/runtime-main.71ddf022.js.map",
+    "static/js/2.8d5120af.chunk.js": "/compound-governance/static/js/2.8d5120af.chunk.js",
+    "static/js/2.8d5120af.chunk.js.map": "/compound-governance/static/js/2.8d5120af.chunk.js.map",
+    "index.html": "/compound-governance/index.html",
+    "precache-manifest.2e74b4d7874a0ee67f8b8935f286e5bc.js": "/compound-governance/precache-manifest.2e74b4d7874a0ee67f8b8935f286e5bc.js",
+    "service-worker.js": "/compound-governance/service-worker.js",
+    "static/css/main.58ee7d71.chunk.css.map": "/compound-governance/static/css/main.58ee7d71.chunk.css.map",
+    "static/media/downvote.svg": "/compound-governance/static/media/downvote.27e21727.svg",
+    "static/media/upvote.svg": "/compound-governance/static/media/upvote.2dc5f234.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71ddf022.js",
+    "static/js/2.8d5120af.chunk.js",
+    "static/css/main.58ee7d71.chunk.css",
+    "static/js/main.22d26137.chunk.js"
+  ]
+}
