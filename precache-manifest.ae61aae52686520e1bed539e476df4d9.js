@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b14aef46027a24a4e5e74db023b11455",
+    "revision": "27427af019bcf98a612c798cc432345e",
     "url": "/compound-governance/index.html"
   },
   {
-    "revision": "c863567efb74c88a9012",
-    "url": "/compound-governance/static/css/main.58ee7d71.chunk.css"
+    "revision": "6b55d4329ad3020b0771",
+    "url": "/compound-governance/static/css/main.5bec8d81.chunk.css"
   },
   {
-    "revision": "7a39c853229d72f28d2d",
-    "url": "/compound-governance/static/js/2.8d5120af.chunk.js"
+    "revision": "d589dd2ee1777a7a97a1",
+    "url": "/compound-governance/static/js/2.b90b2204.chunk.js"
   },
   {
-    "revision": "c863567efb74c88a9012",
-    "url": "/compound-governance/static/js/main.1951ab83.chunk.js"
+    "revision": "6b55d4329ad3020b0771",
+    "url": "/compound-governance/static/js/main.b7d6c1e5.chunk.js"
   },
   {
     "revision": "6d0cb57d9f39bcde65d6",
